@@ -4,7 +4,7 @@ Simulates a simple file system by creating a file that acts as a drive being wri
 
 Pathnames are in the format /dir1/dir2/file3 and "/" represents the root.
 
-Using the terminal in the Linux OS, enter the following command after navigating to the folder containing this repository:
+Using the Terminal in the Linux OS, enter the following command after navigating to the folder containing this repository:
 
     python3 TinyDOS.py
           
