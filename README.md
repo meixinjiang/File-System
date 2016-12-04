@@ -32,7 +32,7 @@ The following commands can be used in the simulated file system:
 
 To run the test files, use the following command:
 
-    python3 TinyDOS.py < testName
+    python3 TinyDOS.py < fullPathOfTestFile
           
 Note: To view the drive in real time as it is being modified, use the following command after the "format" command has been
 called:
